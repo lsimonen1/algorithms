@@ -12,6 +12,7 @@
 #	g++ -o exec_name source_file.cpp
 #Rust:
 #	rustc source_file.rs
+all: build run
 
 build:
 	javac inversionCount.java
